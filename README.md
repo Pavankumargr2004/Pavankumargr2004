@@ -11,13 +11,13 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👨‍🎓 Studying Engineering At **Dr.Ambedkar Institute Of Technology**.
+- 👨‍🎓 Studying Engineering At **Dayananda Sagar University**.
 
 - 🔭 I’m looking To Contribute to **Open Source**
 
-- 🌱 I’m Currently Exploring **Machine learning**
+- 🌱 I’m Currently Exploring **AI&ML and Web Development**
 
-- 👩‍💻 Know Me More <a href="https://www.linkedin.com/in/mourya-s/" style="text-decoration: none;">LINKEDIN</a>
+- 👩‍💻 Know Me More <a href="https://www.linkedin.com/in/pavan-kumar-gr-6404112a7/" style="text-decoration: none;">LINKEDIN</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -41,14 +41,15 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-## 🏆 GitHub Trophies
+  
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mouryas-aiml&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+</p>-->
   
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=MOURYAS-AIML&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
@@ -57,18 +58,18 @@
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+</p>-->
 
 ## 👋 Connect With Me
 
   
 <div align="center">
-<a href="https://twitter.com/mr_mourya_gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_mourya_gowda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mourya-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mourya-s" height="30" width="40" /></a>
-<a href="https://fb.com/mouryagowda.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouryagowda.s" height="30" width="40" /></a>
-<a href="https://instagram.com/_mourya__gowda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mourya__gowda_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mouryas_streamline.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mouryas_streamline.x" height="30" width="40" /></a>
-</p>
+<a href="https://x.com/pavan192004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pavan_Kumar_GR" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pavan-kumar-gr-6404112a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pavan_Kumar_GR" height="30" width="40" /></a>
+<!--<a href="https://g.dev/Pavankumargr1904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Pavan Kumar GR" height="30" width="40" /></a>-->
+<a href="https://instagram.com/pavan_kumar_g_r_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mourya__gowda_" height="30" width="40" /></a>
+<!--<a href="https://www.youtube.com/c/mouryas_streamline.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mouryas_streamline.x" height="30" width="40" /></a>
+</p>-->
 
 </div>
 
