@@ -44,7 +44,6 @@
 <div align="center">
 <a href="https://x.com/pavan192004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pavan_Kumar_GR" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pavan-kumar-gr-6404112a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pavan_Kumar_GR" height="30" width="40" /></a>
-
 <a href="https://instagram.com/pavan_kumar_g_r_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Pavan Kumar GR" height="30" width="40" /></a>
 
 
