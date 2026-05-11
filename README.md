@@ -170,17 +170,28 @@ A Passionate Computer Science Engineer From India
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://x.com/pavan192004" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="45" width="55" />
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/pavan-kumar-gr-6404112a7/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="55" />
 </a>
+</td>
 
+<td align="center">
 <a href="https://instagram.com/pavan_kumar_g_r_6" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45" width="55" />
 </a>
+</td>
 
-</div>
+</tr>
+</table>
+
 </div>
